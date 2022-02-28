@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation, of the most remarkable passages and speeches at, and before the death of His Excellence Iames Marques of Montrose Earle of Kincardin, Lord Græme, Baron of Mont-dieu, &amp;c. K̓night of the most Honourable Order of Saint George. Lieutenant Governour and Captaine General for His Majestie in the Kingdome of Scotland. / Faithfully colected by an eye witnes; in Edenburgh as they happened upon the 18. 20. and 21. of May 1650.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94967</idno>
+            <idno type="STC">Wing T2561A</idno>
+            <idno type="STC">ESTC R185564</idno>
+            <idno type="EEBO-CITATION">45578477</idno>
+            <idno type="OCLC">ocm 45578477</idno>
+            <idno type="VID">172391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172391)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation, of the most remarkable passages and speeches at, and before the death of His Excellence Iames Marques of Montrose Earle of Kincardin, Lord Græme, Baron of Mont-dieu, &amp;c. K̓night of the most Honourable Order of Saint George. Lieutenant Governour and Captaine General for His Majestie in the Kingdome of Scotland. / Faithfully colected by an eye witnes; in Edenburgh as they happened upon the 18. 20. and 21. of May 1650.</title>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno M.D.C.L. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Jesus College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Death and burial.</term>
+               <term>Scotland --  History --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172391:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:172391:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>A True and Perfect RELATION, Of the moſt remarkable Paſſages and Speeches at, and before the Death of His EXCELLENCE IAMES MARQVES of MONTROSE Earle of <hi>Kincardin,</hi> Lord <hi>Graeme,</hi> Baron of <hi>Mont-dieu,</hi> &amp;c.<g ref="char:punc">▪</g> 
+               <hi>Knight</hi> of the moſt <hi>Honorable Order</hi> of Saint <hi>George.</hi>
+            </p>
+            <p>Lieutenant Governour and Captaine General for His Majeſtie in the Kingdome of <hi>Scotland.</hi>
+            </p>
+            <p>Faithfully colected by an Eye witnes; In EDENBURGH as they happened upon the 18. 20. and the 21. of May 1650.</p>
+            <p>ANNO M.D.C.L.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172391:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb facs="tcp:172391:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>A True and Perfect RELATION, <hi>Of all the Paſſages concerning the Exami<g ref="char:EOLhyphen"/>nation, Triall and Death of the moſt Hono<hi rend="sup">ble:</hi>
+               </hi> James Marques of <hi>Mon<g ref="char:EOLhyphen"/>troſe,</hi> Earle of <hi>Kincardin,</hi> Lord <hi>Graeme,</hi> Baron of <hi>Mont-dieu,</hi> &amp;c. <hi>Knight</hi> of the moſt <hi>Honorable Order</hi> of S<hi rend="sup">t</hi>. <hi>George.</hi> Lieutenant Gover<g ref="char:EOLhyphen"/>nour &amp; Captaine General for His Majeſtie in the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+            </head>
+            <p>THe Parliament of <hi>Scotland</hi> being informed that the <hi>Marques</hi> of <hi>Montroſe</hi> was taken, and fore<g ref="char:EOLhyphen"/>ſeeing that his countenance and carriage might gaine him ſome favour amongſt the People, thought fit to give out their ſentence againſt him before he should come to <hi>Edenburgh.</hi> And therefore upon the 17. of May anno 1650. in the morning, they ap<g ref="char:EOLhyphen"/>pointed
+<pb facs="tcp:172391:3"/>
+               <!-- PDF PAGE 39 -->a Comittie to prepare and give in their opi<g ref="char:EOLhyphen"/>nions what was fitteſt to be don with him, where the ſame forenoone they gave in their report in writing to this Effect: That ſo ſoone as he should come to the Towne, he should be met at the Gate by the Magi<g ref="char:EOLhyphen"/>ſtrates, and Hangman; That he should be tyed with cords upon a Cart bareheaded, and the Hangman to ride upon the horſe that drew the Cart covered before him, and ſo to be brought through the towne. That He should be hanged on a gibbet at the Croſſe of <hi>Edenburgh</hi> untill he died, His <hi>Hiſtorie,</hi> and <hi>Declaration</hi> hanging about his neck, and ſo hang three houres in Publick view of all the People: after which He should be be<g ref="char:EOLhyphen"/>headed, and quartered. His head to be fixt upon the Priſon houſe of <hi>Edenburgh,</hi> &amp; his Leggs and armes over the gates of the Cities of <hi>Sterling, Glaſcowe, Perth</hi> alias <hi>Saint Iohns-Towne</hi> and <hi>Aberdeine.</hi> And in Caſe He re<g ref="char:EOLhyphen"/>pented not, (whereby the Sentence of Excommunica<g ref="char:EOLhyphen"/>tion may be taken of by the Church): the Bulke of His bodie should be burried in the <hi>Gray friers;</hi> if not, to be burried in the Boromoore.</p>
+            <p>Upon the 18. day about 4. a clocke in the after<g ref="char:EOLhyphen"/>noone, He Was brought in at the Water Gate, and ac<g ref="char:EOLhyphen"/>cording to the Sentence was met by the Magiſtrates, the gardes, and the Hangman of the Citie, the reſt of the Priſoners being tyed two and two together, going bareheaded before him; So ſoone as He came within the Gate the Magiſtrates shewed Him the Sentence, which when He had read, and perceived the Cart, and Hangman there ready, He ſaid; <hi>He would willingly obey, He was only ſorrie that through Him, His Majeſtie whoſe Per<g ref="char:EOLhyphen"/>ſon he preſented, should be ſo dishonored.</hi> then going cherefully
+<pb facs="tcp:172391:3"/>
+               <!-- PDF PAGE 39 -->into the Cart, He being uncovered was by the Hang<g ref="char:EOLhyphen"/>man tyed thereunto with Ropes, and the Hangman on the horſe rid covered, thus was He carried to the pri<g ref="char:EOLhyphen"/>ſon, and in all the way, there appeared in Him ſuch a <hi>Majeſtie, Courage,</hi> &amp; <hi>Modeſtie,</hi> no way <hi>Daunted,</hi> That His very Enemies, nay common women, who as it was be<g ref="char:EOLhyphen"/>leeved by divers would have ſtoned Him in the Cart as he paſſed, were upon the ſight of Him ſo aſtonished, &amp; moved: that their intended <hi>curſes,</hi> were turned, into <hi>Teares</hi> &amp; <hi>Prayers</hi> for Him; In ſo much as the next day (being Sunday), the Miniſters Preached againſt them for not <hi>reviling</hi> and <hi>ſtoning</hi> of Him as he paſſed along.</p>
+            <p>When He was taken from the Cart, He gave the Hangman gold, telling him <hi>that was a reward for driving the Cart:</hi> It was ſeven a clocke at night before he was entered into the Priſon, and immediately the Par<g ref="char:EOLhyphen"/>liament met, &amp; ſent ſome of their Members, and ſome Miniſters to examine Him; but He refuſed to Anſwer any thing to them, untill He was ſatisfied upon what tearmes they ſtood with the King, His Royal Maſter. which being reported unto the Parliament, they ceaſed proceeding againſt Him untill Munday, and allowed their Commiſſioners to tell Him that the King, &amp; they were agreed: He deſired to be at reſt for He was wearie with a long journey, &amp; He ſaid <hi>The Complement they had put upon him that day was ſomewhat tedious.</hi>
+            </p>
+            <p>The next day being Sunday, He was conſtantly at<g ref="char:EOLhyphen"/>tended by Miniſters and Parliament men, who ſtill perſued him with threatnings but they got no advan<g ref="char:EOLhyphen"/>tage of Him; He told them, <hi>They thought they had a fronted him the day before by carring him in a cart, but they were much miſtaken; For he thought it the moſt Honorable &amp; joyfulſt journey
+<pb facs="tcp:172391:4"/>
+                  <!-- PDF PAGE 40 -->that ever he made, God Having all the while moſt comfortably manifeſted His preſence to him, and furnishing Him with reſolution to over looke the reproches of men, and to behold him, for whoſe cauſe He ſuffered.</hi>
+            </p>
+            <p>Upon Munday in the forenoone, He was brought be<g ref="char:EOLhyphen"/>fore the Parliament and after the deliverie of a Long penned diſcourſe by the Chancellour where in he was pleaſed to take notice of <hi>His miſcarriages againſt the firſt Co<g ref="char:EOLhyphen"/>venant, the League and Covenant, His Invaſion, &amp; joining with the Irish Rebells &amp; blood gultines; and that now, how God had brought Him to juſt punishment:</hi> He deſired to know if he might be allowed to ſpeake for himſelf, which being Granted, He ſaid, <hi>Since you have declared unto me, that you have agreed with the King,</hi> I <hi>looke upon you, as if His</hi> MAJESTIE <hi>were ſitting amongſt you, and in that Relation</hi> I <hi>appeare with this reverence bareheaded: My Care hath been allwaies to walke as became a good Chriſtian, and a Loyall Subject;</hi> I <hi>engaged in the firſt Co<g ref="char:EOLhyphen"/>venant, and was faithfull to it, untill</hi> I <hi>perceived ſome private Per<g ref="char:EOLhyphen"/>ſons under Colour of Religion intended to wring the Authoritie from the King, and to ſeaze on it for themſelves; and when it was thought fit for the clearing of honeſt men that a bond should be ſubſcribed, wherein the ſecuritie of Religion was ſufficiently provided for,</hi> I <hi>ſub<g ref="char:EOLhyphen"/>ſcribed. For the League and Covenant,</hi> I <hi>thanke God</hi> I <hi>was never in it, and ſo could not breake it, but how farr Religion hath been ad<g ref="char:EOLhyphen"/>vanced by it, and the ſad conſequences that have followed on it, theſe poore diſtreſſed Kingdomes can witnes. for when His Late</hi> MAJESTIE <hi>had by the Bleſsing of God almoſt ſubdued thoſe Re<g ref="char:EOLhyphen"/>bells that roſe againſt him in England, and that a faction of this King<g ref="char:EOLhyphen"/>dom went in to the aſsiſtance of thoſe Rebells, His</hi> MA<g ref="char:EOLhyphen"/>JESTIE <hi>gave Comiſsion to me, to come into this Kingdome, and to make a diverſion of thoſe forces that were going from hence againſt Him</hi> I <hi>acknowleged the command moſt Iuſt, and</hi>
+               <pb facs="tcp:172391:4"/>
+               <!-- PDF PAGE 40 -->I <hi>conceaved my ſelfe bound in conſcience and dutie to obey it, what my carriage was in this Country many of you may beare witnes; Diſorders in an Army can not be prevented, but they were no ſooner knowne, then punished; never was any mans blood ſpilt but in Battaile, &amp; even then many thouſand Lives have</hi> I <hi>preſerved; and as</hi> I <hi>came in upon His</hi> MA<g ref="char:EOLhyphen"/>JESTIES <hi>Warrant: ſo upon His Letters did</hi> I <hi>lay aſide all Intereſt, and retreat.</hi>
+            </p>
+            <p>
+               <hi>And for my coming in at this time, it was by His</hi> MAJESTIES <hi>com<g ref="char:EOLhyphen"/>mands, in order to the accelerating of the Treatie betwixt Him &amp; You; His</hi> MAJESTIE <hi>knowing that when ever He had ended with you</hi> I <hi>was readie to retire upon his call.</hi> I <hi>may juſtly ſay, that never ſubject acted upon more Honorable grounds, nor by ſo lawfull a power, as</hi> I <hi>did in this ſervice; and therfore</hi> I <hi>deſire you to lay aſide prejudice, and conſider me as a Chriſtian in relation to the juſtice of the quarrell; as a Subject in relation to my Royal Maſters commands; and as your Neighbour in relation to the manie of your Lives,</hi> I <hi>have preſerved in battaile; &amp; be not too, rash but let me be judged by the Lawes of God, the Lawes of Nature, and Nations, and the Lawes of this Land; if you do otherwiſe,</hi> I <hi>do heare appeale from you, to the Righteous judge of the world, who one day muſt be both your Iudge and myne, and who allwaies gives Righteous Iudgement.</hi>
+            </p>
+            <p>This he delivered with ſuch <hi>Gravitie,</hi> &amp; with out <hi>Paſsion,</hi> as was much admired even of His Enemies: After which, the <hi>Chancellour</hi> commanded the Sentence to be read, which He heard with a <hi>ſetled</hi> and an <hi>unmoved</hi> countenance, and de<g ref="char:EOLhyphen"/>ſiering to be further heard, was preſently ſtopt by the <hi>Chancel<g ref="char:EOLhyphen"/>lour</hi> who commanded He should be preſently removed back againe to priſon, where being no ſooner come but the Mi<g ref="char:EOLhyphen"/>niſters aſſault him afresh, agravating the terror of the Sen<g ref="char:EOLhyphen"/>tence, thereby to affright him; He acknowledged Him ſelfe much beholding to the Parliament for the Honor they put upon him ſaying, <hi>He Tooke it for a greater Honor to have His Head ſtand upon the priſon Gate for this Quarrell; then to have his
+<pb facs="tcp:172391:5"/>
+                  <!-- PDF PAGE 41 -->picture in the Kings Bedchamber. And (leaſt his Loyaltie should be for<g ref="char:EOLhyphen"/>gotten) they had highly Honoured him, in deſigning laſting monuments to foure of the cheifeſt Cities, to beare up his memoriall to all poſteritie. Wishing he had had flesh enough, to have ſent a peece to Every Citie in Chriſtendome to witneſſe his Loyaltie to his King and Countrie.</hi>
+            </p>
+            <p>His Friends were not ſuffered to come neare him, but a gard was alwaies in the Chamber with Him, in ſo much as He had neither time, nor place for His <hi>Private Devotions.</hi> but in their Hearing.</p>
+            <p>The next day being the 21. Cloathed in a Scarlet cloake richly Laced with Gould Lace, He was brought to the Scaf<g ref="char:EOLhyphen"/>fold: He came a long the ſtreets with ſo great ſtate, &amp; there appeared in His countenance ſo much <hi>Beautie, Majeſiie</hi> and <hi>Gravitie,</hi> as amazed the behoulders; and manie even of His Enemies did acknowledge Him to be the Gallants Subject in the world: but becauſe all His Friends &amp; well willers were debar'd from coming neare him; there was a boy deſigned for that purpoſe on the Scaffold who tooke His <hi>Laſt ſpeech.</hi> Which was to this Effect.</p>
+            <p>
+               <hi>I am ſorrie if this manner of my End be Scandalous to any good Chri<g ref="char:EOLhyphen"/>ſtian. Doth it not often happen to the righteous according to the waies of the wicked, and to the wicked, according to the waies of the righteous? doth not ſome time a juſt man perish in His righteouſnes, &amp; a wicked man proſper in his malice? They who know me, should not diſeſteeme me for this; many greater then</hi> I <hi>have been dealt with in this Kind; yet</hi> I <hi>muſt not ſay but that all</hi> Gods Iudgements <hi>are</hi> Iuſt; <hi>For my private ſinns, I acknowledge this to be</hi> Iuſt <hi>with</hi> God, <hi>I ſubmit my ſelfe to him: but in regard of man,</hi> I <hi>may ſay they are but inſtruments,</hi> God <hi>forgive them,</hi> I <hi>forgive them, they have</hi> oppreſſed <hi>the</hi> poore, <hi>and violently perverted</hi> Iudgement, <hi>and</hi> Iuſtice, <hi>but He that is higher then they will reward them.</hi>
+            </p>
+            <p>
+               <hi>What</hi> I <hi>did in this Kingdome, was in obedience to the moſt juſt Com<g ref="char:EOLhyphen"/>mands of my</hi> Soveraigne, <hi>For His defence in the day of His diſtreſe, againſt thoſe that roſe up againſt him.</hi> I <hi>acknowledge nothing, but feare</hi> God
+<pb facs="tcp:172391:5"/>
+               <!-- PDF PAGE 41 -->
+               <hi>and</hi> Honor <hi>the</hi> King, <hi>according to the commandements of</hi> God, <hi>and the</hi> Law <hi>of</hi> Nature, <hi>and</hi> Nations, <hi>and</hi> I <hi>have not ſinned againſt man, but againſt</hi> God; <hi>and with Him there is</hi> Mercie, <hi>which is the ground of my drawing neare unto him.</hi>
+            </p>
+            <p>
+               <hi>It is objected againſt me by many, (even good People,) That</hi> I <hi>am under the Cenſure of the</hi> Church; <hi>This is not my fault, ſince it is only for doing my</hi> Dutie, <hi>by</hi> Obeying <hi>my</hi> Princes <hi>moſt juſt</hi> Commands <hi>for</hi> Re<g ref="char:EOLhyphen"/>ligion, His Sacred Perſon, <hi>and</hi> Authoritie. <hi>Yet</hi> I <hi>am ſorrie they did excomunicate me; and in that, which is according to</hi> Gods Lawes; <hi>without wronging my conſcience or allegeance</hi> I <hi>deſire to be relaxed; if they will not thus do it,</hi> I <hi>appeale to</hi> God <hi>who is the righteous</hi> Iudge <hi>of the world, &amp; who muſt; &amp; will</hi> I <hi>hope be my</hi> Iudge <hi>and</hi> Saviour.</p>
+            <p>
+               <hi>It is ſpoken of me that</hi> I <hi>should blame the</hi> King <hi>(God forbid,) For the Late</hi> King, <hi>He Lived a</hi> Saint, <hi>and Died a</hi> Martyr; I <hi>pray</hi> God, I <hi>may ſo end as</hi> He <hi>did; If ever</hi> I <hi>would wish my ſoule in an other mans ſtead, it should be in his. For His</hi> MAJESTIE <hi>now Living, never People</hi> I <hi>beleive might be more happie in a</hi> King: <hi>His commands to me were moſt juſt; in nothing that He promiſeth will He faile, He deales juſtly with all men, I pray</hi> God <hi>He be ſo dealt with all that He be not betrayed under truſt as His</hi> Father <hi>was.</hi>
+            </p>
+            <p>I <hi>deſire not to be miſtaken, as if my carriage at this time in Relation to your waies were ſtubborne;</hi> I <hi>do but follow the Light of my owne conſcience, which is ſeconded by the working of the</hi> Good Spirit of God <hi>that is within me,</hi> I <hi>thanke him,</hi> I <hi>goe to Heavens throne with ioy. If He enable me againſt the feare of Death, and furnish me with cou<g ref="char:EOLhyphen"/>rage, and confidence to embrace it even in its moſt uglie shape: Let</hi> God <hi>be glorified in my end, though it were in my damnation. Yet</hi> I <hi>ſay not this out of any feare or diſtruſt, but out of my</hi> Dutie <hi>to</hi> God, <hi>and</hi> Love <hi>to his</hi> People.</p>
+            <p>I <hi>have no more to ſay but that</hi> I <hi>deſire your</hi> Charitie, <hi>and</hi> Prayers. I <hi>shall pray for you all;</hi> I <hi>leave my</hi> Soule <hi>to</hi> God; <hi>my</hi> Service <hi>to m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Prince; <hi>my</hi> Goodwill <hi>to my</hi> Friends; <hi>and my</hi> Name, <hi>and</hi> Charitie <hi>to</hi> You all. <hi>And thus briefly</hi> I <hi>have exonerated my</hi> Conſcience.</p>
+            <p>
+               <pb facs="tcp:172391:6"/>
+               <!-- PDF PAGE 42 -->
+Being deſired to pray a part, He ſaid, I <hi>have already powred out my ſoule before the Lord who knowes my heart, and into whoſe hands</hi> I <hi>have commended my Spirit, and he hath been gratiouſly pleaſed to re<g ref="char:EOLhyphen"/>turne to me a full aſſurance of peace in Ieſus Chriſt my Redeemer. And therfore if you will not Ioine with me in prayer; my reiterating againe will be both Scandalous to you, and me.</hi> So cloſing his Eyes, &amp; holding up his hands, he ſtood a good ſpace at his inward devotions. being perceived to be inwardly moved all the while; When He had don, He cald for the Executioner, &amp; gave him mo<g ref="char:EOLhyphen"/>ney, then having brought unto him hanging in a cord His <hi>Declaration,</hi> &amp; <hi>Hiſtorie,</hi> He hanged them about his necke; ſay<g ref="char:EOLhyphen"/>ing, <hi>Though it hath pleaſed His Sacred</hi> MAJESTIE <hi>that now is, to make him one of the Knights of the moſt Honorable Order of the Garter; yet He did not thinke him ſelfe more Honored by the Garter, then by that cord; with the bookes which he would embrace about his neck with as much ioy &amp; content, as ever he did the Garter, or a chaine of gould,</hi> &amp; therfore deſired them to be tied unto him as they pleaſed.</p>
+            <p>When this was done &amp; His armes tied, He asked the Of<g ref="char:EOLhyphen"/>ficers, <hi>If they had any more Dishonour, as they conceaved it, to put upon him, he was readie to accept it.</hi> And ſo with an <hi>Vndaunted Courage</hi> &amp; <hi>Gravitie</hi> ſuffered, According to the Sentence paſt upon him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
